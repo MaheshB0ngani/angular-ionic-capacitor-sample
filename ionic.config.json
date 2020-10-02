@@ -1,0 +1,7 @@
+{
+  "name": "capacotor-run",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
